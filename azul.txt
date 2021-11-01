@@ -1,3 +1,8 @@
 Es el cielo
+<<<<<<< HEAD
 Es el color del mar
 En Colombia hay un mar con siete azules diferentes, le dicen el mar de los siete colores.
+=======
+Es mi color favorito
+Azul como el mar
+>>>>>>> a05a3622f4d2439c2ba897bf085de5c775d4f1f9
